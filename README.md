@@ -8,7 +8,7 @@ So I made a simple GUI Interface for it.
 # HOW TO INSTALL THIS APP
 
 - Download the EmmcHaccGen from this link https://github.com/suchmememanyskill/EmmcHaccGen/releases
-- Drag or copy the GUI into the EmmcHaccGen folder
+- Drag or copy the EmmcHaccGenGUI into the EmmcHaccGen folder
 
 # HOW TO USE THIS APP
 
